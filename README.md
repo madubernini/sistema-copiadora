@@ -1,5 +1,5 @@
 
-# 📄 Copiadora da Maria Eduarda Bernini (Versão em C)
+# 📄 Sistema de Copiadora em C
 
 Este programa simula o atendimento de uma copiadora, permitindo ao usuário escolher um serviço de cópia, inserir a quantidade de páginas e, opcionalmente, adicionar serviços extras como encadernação.
 
